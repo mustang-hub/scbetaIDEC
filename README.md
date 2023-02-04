@@ -5,14 +5,26 @@ The framework diagram of scbetaIDEC is shown below
 ![Frame](https://user-images.githubusercontent.com/78398350/216752939-f062eaaf-78a1-4e34-b26a-875e25e7f77d.png)
 Requirement:
 h5py                          3.7.0
+
 keras                         2.11.0
+
 matplotlib                    3.6.3
+
 numpy                         1.23.3
+
 pandas                        1.5.0
+
 pip                           22.3.1
+
 protobuf                      3.19.6
+
 python 							          3.9
+
 scanpy                        1.9.1
+
 scikit-learn                  1.1.2
+
 scipy                         1.9.1
+
 torch                         1.12.1
+
